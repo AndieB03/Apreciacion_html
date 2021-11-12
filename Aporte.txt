@@ -1,1 +1,2 @@
 Profesor Joshua Chandler: Agrego la etiqueta <tille> con el tema (Patria)
+Andrea Booth: agregó body (titulo de "Fiestas Patrias"), y pequeño párrafo introductorio (linea 7)
